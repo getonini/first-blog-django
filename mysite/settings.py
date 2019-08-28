@@ -25,7 +25,7 @@ SECRET_KEY = '@3t@l041j@0-tj3g^6z2%3y!r91p++(k@-uklw!c4cn8iktjlr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonnois.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonnois.com', 'getonini.pythonanywhere.com']
 
 
 # Application definition
